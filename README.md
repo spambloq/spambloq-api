@@ -1,4 +1,5 @@
 # spambloq-api
+<img width="500" src="https://github.com/spambloq/spambloq-api/assets/76186054/a6d51d29-79c7-4c8e-b63c-122692259771">
 
 This API and GUI for Spambloq allows you to locally run a Spambloq API instance.
 
@@ -16,3 +17,26 @@ The following variable must be set in the environment:
 4. Click the Settings tab. Scroll down until you see "Repository secrets." Click the "New Secret" button. Set `HF_TOKEN` to your Hugging Face Token. Click "Add new secret." Repeat, creating the "API_ROOT" secret (set this to `[yourusername]-[yourspacename].hf.space`) and `SERVER PORT` secret (set this to `7860`).
 5. Click on the App tab and wait for the space to build.
 6. Test it out with some spam!
+
+## API Documentation
+
+Endpoint: `https://spambloq-spambloq.hf.space/api/v1/classify`
+
+Methods: `POST`, `GET`
+
+Parameters:
+
+`text`: The input text to be classified
+
+Response:
+
+{
+    "text": "Your Input Text",
+    "classification": "ham",
+    "ham": 0.99,
+    "spam": 0.01
+}
+
+## License
+
+See the LICENSE file.
