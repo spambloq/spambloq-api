@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/spambloq/spambloq-api/assets/76186054/1def6e97-97e1-460d-928d-b81bcea476d6" width="200">
+<img src="https://github.com/spambloq/spambloq-api/assets/76186054/e0ad8204-70f1-4e61-9a57-b66137c8c044" width="200">
 
 
 # Spambloq API + GUI
