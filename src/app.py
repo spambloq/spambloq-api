@@ -35,7 +35,7 @@ limiter = Limiter(
 @app.route('/')
 @limiter.exempt
 def home():
-    return render_template('index.html', apiroot=API_ROOT)
+    return render_template('index.html', apiroot=apiroot)
 
 @app.route('/api/v1/classify', methods=['GET', 'POST'])
 def classify():
