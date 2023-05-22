@@ -1,8 +1,12 @@
+<div align="center">
+<img src="https://github.com/spambloq/spambloq-api/assets/76186054/1def6e97-97e1-460d-928d-b81bcea476d6" width="200">
+
+
 # Spambloq API + GUI
 
 **Note: This is not open-sourced software! Please refer to the [license](LICENSE) for details.**
 
-<img width="500" src="https://github.com/spambloq/spambloq-api/assets/76186054/a6d51d29-79c7-4c8e-b63c-122692259771">
+<img width="500" src="https://github.com/spambloq/spambloq-api/assets/76186054/383c55c0-b45f-4994-97a6-a6f16827f370">
 
 This API and GUI for Spambloq allows you to locally run a Spambloq API instance.
 
@@ -33,15 +37,21 @@ Parameters:
 
 Response:
 
+    
+</div>
+
 ```json
 {
-    "text": "Your Input Text",
     "classification": "ham",
     "ham": 0.99,
     "spam": 0.01
 }
 ```
 
+<div align="center">
+
 ## License
 
 See the [LICENSE file](LICENSE).
+
+</div> 
