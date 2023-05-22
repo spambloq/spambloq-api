@@ -1,4 +1,7 @@
-# spambloq-api
+# Spambloq API + GUI
+
+**Note: This is not open-sourced software! Please refer to the [license](LICENSE) for details.**
+
 <img width="500" src="https://github.com/spambloq/spambloq-api/assets/76186054/a6d51d29-79c7-4c8e-b63c-122692259771">
 
 This API and GUI for Spambloq allows you to locally run a Spambloq API instance.
@@ -39,4 +42,4 @@ Response:
 
 ## License
 
-See the LICENSE file.
+See the [LICENSE file](LICENSE).
