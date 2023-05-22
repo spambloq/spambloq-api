@@ -33,12 +33,14 @@ Parameters:
 
 Response:
 
+```
 {
     "text": "Your Input Text",
     "classification": "ham",
     "ham": 0.99,
     "spam": 0.01
 }
+```
 
 ## License
 
