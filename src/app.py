@@ -90,5 +90,5 @@ def ratelimit_handler(e):
     return jsonify({'error': 'Too many requests! The current rate limit is 5000 requests per day, 250 requests per hour, and 10 requests per minute. Please slow down!'}), 429
 
 if __name__ == '__main__':
-    app.run(host="0.0.0.0", port=7860)
+    app.run(host="0.0.0.0", port=int(os.getenv('SERVER_PORT', 80))
 
