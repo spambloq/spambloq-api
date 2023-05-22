@@ -123,7 +123,7 @@
     </div>
     <div id="api-docs">
       <h2>API Documentation</h2>
-      <p>Endpoint: <code>https://spambloq-spambloq.hf.space/api/v1/classify</code></p>
+      <p>Endpoint: <code>{{ apiroot }}/api/v1/classify</code></p>
       <p>Method: <code>POST</code>, <code>GET</code></p>
       <p>Parameters:</p>
       <p><code>text</code>: The input text to be classified</p>
@@ -150,7 +150,7 @@
             e.preventDefault();
             const text = document.getElementById('text').value;
 
-            fetch('https://spambloq-spambloq.hf.space/api/v1/classify?text=' + encodeURIComponent(text))
+            fetch('{{ apiroot }}/api/v1/classify?text=' + encodeURIComponent(text))
                 .then(response => response.json())
                 .then(data => {
                     console.log(data)
