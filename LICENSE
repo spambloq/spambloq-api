@@ -1,1 +1,32 @@
+SOFTWARE AND AGREEMENT COPYRIGHT (C) 2023 SPAMBLOQ AI. ALL RIGHTS RESERVED. THIS IS NOT OPEN-SOURCE SOFTWARE!
 
+LICENSE AGREEMENT
+
+By using and/or downloading this software, you agree to the following agreement.
+
+1. You may only use this repository if you have been granted access to Spambloq AI through Hugging Face
+2. You may not use this repository for any commercial purposes
+3. You may only use this repository for Spambloq AI. You may not modify it to use it with any other model
+4. Any changes or pull requests you make, when merged, will become sole intellectual property of SPAMBLOQ AI
+5. This software is to be used for non-commercial purposes ONLY
+6. This software is to be used for testing purposes ONLY. Usage in production without prior written permission from SPAMBLOQ AI is strictly prohibited
+7. You may not redistribute this program in any form, binary or source
+8. You may not bundle this program in any other program, in binary or source
+
+Limitation of Liability: Spambloq AI and its developers shall not be liable for any direct, indirect, incidental, special, consequential, or exemplary damages, including but not limited to damages for loss of profits, goodwill, data, or other intangible losses, resulting from the use or inability to use the software.
+
+No Warranty: Spambloq AI is provided "as is" without any warranty, whether express or implied. We do not warrant that the software will be error-free, uninterrupted, or free of viruses or other harmful components. You acknowledge that you are using the software at your own discretion and risk.
+
+User Responsibility: While Spambloq AI employs advanced algorithms and techniques to identify and block spam, no system is perfect, and false positives or false negatives may occur. It is your responsibility to regularly review the blocked messages and ensure that legitimate emails are not inadvertently marked as spam or vice versa.
+
+Compliance with Laws: By using Spambloq AI, you agree to comply with all applicable laws and regulations governing the transmission of electronic communications, including but not limited to anti-spam laws and data protection regulations. Spambloq AI shall not be held liable for any violations committed by its users.
+
+Third-Party Services: Spambloq AI may integrate with or rely on third-party services, such as email providers or filtering systems. We cannot guarantee the availability or reliability of these third-party services, and we shall not be liable for any damages or losses resulting from their actions or omissions.
+
+Indemnification: You agree to indemnify, defend, and hold Spambloq AI and its developers harmless from any claims, liabilities, damages, expenses, and costs arising out of or in connection with your use of the software or any violation of this warranty notice.
+
+By using Spambloq AI, you acknowledge that you have read and understood this liability warranty notice and agree to its terms and conditions. If you do not agree with any part of this notice, you should refrain from using the software.
+
+Please note that this liability warranty notice does not limit any statutory rights that may apply under applicable consumer protection laws.
+
+If any provision or part of this software license agreement is found to be invalid, illegal, or unenforceable, the remaining provisions or parts shall continue to be valid, legal, and enforceable to the fullest extent permitted by law. The invalid, illegal, or unenforceable provision or part shall be deemed severed from the agreement, and the parties shall make good faith efforts to replace it with a valid, legal, and enforceable provision that achieves the intended purpose to the maximum extent possible.
