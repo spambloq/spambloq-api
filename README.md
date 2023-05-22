@@ -33,7 +33,7 @@ Parameters:
 
 Response:
 
-```
+```json
 {
     "text": "Your Input Text",
     "classification": "ham",
